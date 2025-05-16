@@ -4,7 +4,7 @@ Este repositório contém os exercícios, projetos e atividades desenvolvidos du
 
 ![Badge Concluido](https://img.shields.io/badge/Status-Concluído-green)
 ![Badge Carga Horária](https://img.shields.io/badge/Carga%20Horária-324h-red)
-![Badge Período](https://img.shields.io/badge/Período-10%/2023-03%/2024-green)
+![Período](https://img.shields.io/badge/Per%C3%ADodo-Outubro%20de%202023%20a%20Mar%C3%A7o%20de%202024-green)
 
 ## 📋 Sobre o Curso
 
@@ -18,29 +18,24 @@ O programa é realizado pela Ada Tech em parceria com o iFood, com o objetivo de
 - Fundamentos de sistemas Unix/Linux
 - Comandos e utilitários do shell
 - Administração básica de servidores Linux
-- Gerenciamento de processos e serviços
 
 ### Módulo 2: Versionamento e Arquivos de Marcação
 - Git e GitHub
-- Controle de versão distribuído
-- Arquivos de marcação (Markdown, YAML, etc.)
-- Estratégias de branching e merge
+- Arquivos de marcação (Markdown, YAML)
 
 ### Módulo 3: Redes
 - Fundamentos de redes de computadores
 - Protocolos de comunicação e segurança
-- Configuração de firewall e proxy
 - DNS, DHCP e outros serviços de rede
 
 ### Módulo 4: Conteinerização
 - Docker e fundamentos de containers
-- Orquestração com Kubernetes
 - Criação e gerenciamento de imagens
 - Volumes e redes em ambientes containerizados
 
 ### Módulo 5: Provisionamento como Código (AWS)
 - Infraestrutura como Código (IaC)
-- Terraform e CloudFormation
+- CloudFormation
 - Automação de infraestrutura na AWS
 - CI/CD para infraestrutura
 
@@ -48,7 +43,6 @@ O programa é realizado pela Ada Tech em parceria com o iFood, com o objetivo de
 - Serviços de computação (EC2, Lambda)
 - Serviços de armazenamento (S3, EBS)
 - Bancos de dados gerenciados
-- Serviços de monitoramento e logging
 
 ## 📂 Estrutura do Repositório
 
@@ -90,8 +84,8 @@ Este repositório serve como registro das atividades realizadas ao longo do curs
 
 Para dúvidas ou sugestões sobre os códigos deste repositório:
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alan-oliveir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
 
 ---
 ⭐️ Desenvolvido como parte da formação em DevOps do programa Vem Ser Tech da Ada Tech & iFood - 10/2023 - 03/2024.
