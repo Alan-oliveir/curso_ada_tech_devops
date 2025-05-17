@@ -13,7 +13,7 @@ Este repositório reúne os conteúdos, exercícios e projetos do Módulo 4, com
 - Criar e gerenciar Docker Compose, Stacks e Services.
 - Gerenciar serviços e redes no Docker Swarm.
 - Trabalhar com Routing Mesh e balanceamento de carga com Traefik.
-- Provisionar ambientes em infraestrutura on-premises e Cloud (AWS, GCP, Azure).
+- Provisionar ambientes em infraestrutura on-premises e Cloud (AWS).
 
 ---
 
@@ -43,7 +43,7 @@ Este repositório reúne os conteúdos, exercícios e projetos do Módulo 4, com
 
 ### Provisionamento em Cloud
 - Docker em ambientes on-premises e cloud
-- Docker na AWS (ECS), GCP e Azure
+- Docker na AWS (ECS)
 
 ---
 
@@ -64,7 +64,6 @@ Este repositório reúne os conteúdos, exercícios e projetos do Módulo 4, com
 ## 🧪 Metodologia
 
 - Aulas expositivas e práticas
-- Estudos de caso em duplas
 - Pesquisas individuais em documentação oficial
 - Exercícios de fixação
 - Mini-projetos práticos com cenários reais
@@ -75,8 +74,7 @@ Este repositório reúne os conteúdos, exercícios e projetos do Módulo 4, com
 
 - Listas de exercícios práticos
 - Prova teórico-prática
-- Projeto final (infraestrutura com Docker)
-- Autoavaliação com devolutiva por rubrica
+- Projeto final (infraestrutura com Docker) - acesse [aqui](https://github.com/Alan-oliveir/curso_ada_tech_devops/tree/main/modulo-4-containers/projeto-conteinerizacao)
 
 ---
 
