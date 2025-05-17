@@ -64,7 +64,7 @@ Este repositório está organizado de acordo com os módulos e atividades do cur
 │
 ├── modulo-5-iac-aws/
 │
-├── modulo-6-servicos-aws/
+└── modulo-6-servicos-aws/
 ```
 
 ## 📝 Notas e Observações
