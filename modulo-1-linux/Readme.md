@@ -100,4 +100,4 @@ Este repositório contém o projeto desenvolvido no Módulo 1 do curso, com foco
 
 ## ✍️ Autor
 
-Este repositório foi desenvolvido como parte do curso *Vem Ser Tech - DevOps*, oferecido pela *Ada Tech*.
+Este repositório foi desenvolvido como parte do curso *Vem Ser Tech - DevOps*, oferecido pela *Ada Tech* e ministrado pelo professor *Daniel*.
