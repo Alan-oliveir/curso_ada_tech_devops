@@ -109,5 +109,5 @@ Este repositório contém os exercícios e projetos desenvolvidos no Módulo 3 d
 
 ---
 
-Este repositório foi desenvolvido como parte do curso *Vem Ser Tech - DevOps*, oferecido pela *Ada Tech* e ministrada pelos professores *Daniel e Thaise*, com foco prático na configuração, segurança e monitoramento de redes de computadores.
+Este repositório foi desenvolvido como parte do curso *Vem Ser Tech - DevOps*, oferecido pela *Ada Tech* e ministrada pelos professores *Daniel e Thayse*, com foco prático na configuração, segurança e monitoramento de redes de computadores.
 
