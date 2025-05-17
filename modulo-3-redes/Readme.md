@@ -90,7 +90,7 @@ Este repositório contém os exercícios e projetos desenvolvidos no Módulo 3 d
 
 - Listas de exercícios
 - Prova teórico-prática
-- Projeto final
+- Projeto final, acesse [aqui](https://github.com/Alan-oliveir/curso_ada_tech_devops/blob/main/modulo-3-redes/projeto-redes/README.md)
 
 ---
 
