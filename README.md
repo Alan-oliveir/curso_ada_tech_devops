@@ -1,4 +1,4 @@
-# 🚀 Formação DevOps - Ada Tech & iFood Vem Ser Tech (2025)
+# 🚀 Formação DevOps - Ada Tech & iFood Vem Ser Tech  
 
 Este repositório contém os exercícios, projetos e atividades desenvolvidos durante o curso de DevOps oferecido pela Ada Tech em parceria com o iFood através do programa Vem Ser Tech.
 
