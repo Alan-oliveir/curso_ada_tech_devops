@@ -95,6 +95,6 @@ Este repositório reúne os conteúdos, exercícios e projetos do Módulo 4, com
 
 ## ✍️ Autor
 
-Este repositório foi desenvolvido como parte do curso *Vem Ser Tech - DevOps*, oferecido pela *Ada Tech* com o objetivo de preparar os alunos para construir, 
+Este repositório foi desenvolvido como parte do curso *Vem Ser Tech - DevOps*, oferecido pela *Ada Tech* e ministrado pelos professores *Renato e Renata*, com o objetivo de preparar os alunos para construir, 
 gerenciar e escalar aplicações com containers Docker, utilizando práticas modernas de DevOps e infraestrutura como serviço.
 
