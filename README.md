@@ -67,9 +67,6 @@ Este repositório está organizado de acordo com os módulos e atividades do cur
 ├── modulo-6-servicos-aws/
 ```
 
-## 🎯 Projetos e exercícios concluídos:
-- *Em breve*
-
 ## 📝 Notas e Observações
 
 Este repositório serve como registro das atividades realizadas ao longo do curso de DevOps da Ada Tech em parceria com o iFood.
