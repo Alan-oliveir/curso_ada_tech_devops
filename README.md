@@ -74,11 +74,9 @@ Este repositório está organizado de acordo com os módulos e atividades do cur
 
 Este repositório serve como registro das atividades realizadas ao longo do curso de DevOps da Ada Tech em parceria com o iFood.
 
-## 🔗 Links Úteis
+## 🔗 Links
 
-- [Programa Vem Ser Tech - iFood](https://ada.tech/oportunidades/ifood-vem-ser-tech)
 - [Ada Tech](https://ada.tech/)
-- [iFood](https://www.ifood.com.br/)
 
 ## 📫 Contato
 
